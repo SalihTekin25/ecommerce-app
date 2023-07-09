@@ -1,0 +1,10 @@
+# .eslintignore
+
+ios
+android
+build
+coverage
+
+# Storybook
+storybook/storyLoader.js
+**/*.js
